@@ -73,9 +73,12 @@ MIT License
 ---
 
 ## Screenshots
+
+![Main Menu](fishfresh-main-menu.png)
+
 > Tambahkan screenshot aplikasi di sini untuk memperlihatkan tampilan utama, halaman klasifikasi, dan riwayat.
 
 ---
 
 ## Kontak
-Untuk pertanyaan atau saran, silakan hubungi: [email@example.com](mailto:email@example.com)
+Untuk pertanyaan atau saran, silakan hubungi: [gandhisatriadewa06@gmail.com](mailto:gandhisatriadewa06@gmail.com)
